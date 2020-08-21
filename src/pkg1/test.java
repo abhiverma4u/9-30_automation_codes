@@ -13,7 +13,7 @@ public class test
 	public static void main(String[] args) 
 	{
 	test obj=new test();
-	obj.method1(2);
+	obj.method1(5);
 	System.out.println(obj.deepak);
 	}
 }
