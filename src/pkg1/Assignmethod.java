@@ -5,7 +5,7 @@ public class Assignmethod
 	public void method0()
 	{
 		this.method3();
-		System.out.println("This is default method");
+		System.out.println("This is Default method");
 	}
 	
 	public void method1()
